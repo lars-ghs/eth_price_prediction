@@ -1,6 +1,6 @@
 # eth_price_prediction
 
-This LSTM prediction model was part of my Master's Thesis using pandas, numpy, tensorflow, matplotlib and pylab libraries. 
+This LSTM prediction model was part of my Master's thesis using pandas, numpy, tensorflow, matplotlib and pylab libraries. 
 
 ## Model Description
 
